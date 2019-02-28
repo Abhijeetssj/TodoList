@@ -1,0 +1,23 @@
+#list{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+ul{
+    cursor: pointer;
+}
+.todo{
+    width:563px!important;
+
+}
+
+.todo-text{
+    font-weight: 800;
+}
+.todo h1 img{
+    width:65px;
+}
+
+img{
+    margin-left:160px;
+}
